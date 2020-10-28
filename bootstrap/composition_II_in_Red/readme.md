@@ -23,20 +23,21 @@ Tasks
 0/4 Complete
 Mark the tasks as complete by checking them off
 Hints along the way
-[] 1.What about the ordering?
 
+[ ] 1.What about the ordering?
 
 Stuck? Get a hint
+
 [ ] 2.Thinking about the layout?
 
+Stuck? Get a hint
+
+[ ] 3.More complex layouts?
 
 Stuck? Get a hint
-[ ]3.More complex layouts?
 
-
-Stuck? Get a hint
 Extra
-[] 4.If you want some additional challenges:
+[ ] 4.If you want some additional challenges:
 
 change up the painting layout entirely.
 render the painting differently based on screen size (use breakpoints).
