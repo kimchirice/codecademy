@@ -2,6 +2,8 @@
 Recreate a painting using Bootstrap's grid
 In this project you will practice using the fundamentals of Bootstrap grid by piecing together a famous painting, namely Piet Mondrian’s Composition II in Red, Blue, and Yellow:
 
+
+
 Screen shot of Piet Mondrian's Composition II in Red, Blue, and Yellow
 In index.html is a container with columns that represent various pieces in Composition II. You can tell which piece is what by the element’s id and the comment inside the column and with the labeled painting below:
 
