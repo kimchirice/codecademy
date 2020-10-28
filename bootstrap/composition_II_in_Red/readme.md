@@ -5,6 +5,7 @@ In this project you will practice using the fundamentals of Bootstrap grid by pi
 
 
 Screen shot of Piet Mondrian's Composition II in Red, Blue, and Yellow
+
 In index.html is a container with columns that represent various pieces in Composition II. You can tell which piece is what by the element’s id and the comment inside the column and with the labeled painting below:
 
 Screen shot of Piet Mondrian's Composition II in Red, Blue, and Yellow
@@ -50,6 +51,7 @@ files
 index.html
 style.css
 12345678910111213141516171819
+```css
 .container {
   width: 500px;
   height: 505px;
@@ -64,6 +66,7 @@ style.css
   min-height: 75px;
   background-color: rgb(242, 224, 122);
 }
+```
 Web Browser
 http://localhost:8000/
 
