@@ -24,9 +24,7 @@ If you get stuck during this project, check out the project walk-through video w
 Tasks 0/4 Complete
 _Mark the tasks as complete by checking them off_
 
-
-
- -[] 1.What about the ordering?
+ [   ] 1.What about the ordering?
   Stuck? Get a [hint]()
 
  -[] 2.Thinking about the layout?
@@ -36,11 +34,11 @@ _Mark the tasks as complete by checking them off_
 
 
 Extra
--[] 4.If you want some additional challenges:
-  * change up the painting layout entirely.
-  * render the painting differently based on screen size (use breakpoints).
-  * add different colors using Bootstrap.
-  * add some interactivity using Bootstrap.
+ -[] 4.If you want some additional challenges:
+   * change up the painting layout entirely.
+   * render the painting differently based on screen size (use breakpoints).
+   * add different colors using Bootstrap.
+   * add some interactivity using Bootstrap.
 
 
 
