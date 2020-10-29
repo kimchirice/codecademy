@@ -1,5 +1,5 @@
 # [Recreate a painting using Bootstrap's grid](https://www.codecademy.com/courses/learn-bootstrap/projects/bootstrap-grid-painting)
-
+## Check [starting code](https://github.com/kimchirice/codecademy/tree/main/bootstrap/composition_II_in_Red/starting_code)
 In this project you will practice using the fundamentals of Bootstrap grid by piecing together a famous painting, namely Piet Mondrian’s _Composition II in Red, Blue, and Yellow_:
 
 Screen shot of Piet Mondrian's Composition II in Red, Blue, and Yellow
@@ -78,5 +78,5 @@ For example you could have:
 In the example provided, there is a column with two nested rows. Each row contains another column. When rendered, the Piece 1 column would rest on top of the Piece 2 column. 
 4. 
 
-# Check [starting code](https://github.com/kimchirice/codecademy/tree/main/bootstrap/composition_II_in_Red/starting_code)
+
 # Check [final code](https://github.com/kimchirice/codecademy/tree/main/bootstrap/composition_II_in_Red/final_code)
