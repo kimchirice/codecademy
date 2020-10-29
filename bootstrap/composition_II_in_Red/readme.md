@@ -24,7 +24,7 @@ If you get stuck during this project, check out the project walk-through video w
 Tasks 0/4 Complete
 _Mark the tasks as complete by checking them off_
 
-## Hints along the way
+
 
   [. ] 1.What about the ordering?
   Stuck? Get a hint
@@ -35,16 +35,7 @@ _Mark the tasks as complete by checking them off_
   [. ] 3.More complex layouts?
 
 Stuck? Get a hint
-  1. The initial ordering of the columns is all scrambled! But you can use the labeled diagram to help you unscramble the pieces.
-  If you’re more a visual person, you can add some text inside the element.
 
-   2. You can think of the layout in a few different ways. One way is to separate the painting into two rows.
-  In one row are the pieces A, B, and C.
-  In the second row are the pieces D, E, F, and G.
-  Focus on one row before moving on to the other row.
-  You could also organize it differently but think about the painting in rows and columns! 
-3. 
-4. 
 
 Extra
 [  ] 4.If you want some additional challenges:
@@ -58,6 +49,34 @@ Extra
 Recreate a painting using Bootstrap's grid
 0/4 Complete
 
-## Hint
+## Hints along the way
+1. The initial ordering of the columns is all scrambled! But you can use the labeled diagram to help you unscramble the pieces.
+  If you’re more a visual person, you can add some text inside the element.
+
+2. You can think of the layout in a few different ways. One way is to separate the painting into two rows.
+  In one row are the pieces A, B, and C.
+  In the second row are the pieces D, E, F, and G.
+  Focus on one row before moving on to the other row.
+  You could also organize it differently but think about the painting in rows and columns! 
+3.You can nest rows inside columns. Those nested rows can also have additional columns!
+
+For example you could have:
+```html
+<div class="col">
+  <div class="row">
+    <div class="col">
+       <!-- Piece 1-->
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+       <!-- Piece 2-->
+    </div>
+  </div>
+</div>
+```
+In the example provided, there is a column with two nested rows. Each row contains another column. When rendered, the Piece 1 column would rest on top of the Piece 2 column. 
+4. 
+
 # Check [starting code](https://github.com/kimchirice/codecademy/tree/main/bootstrap/composition_II_in_Red/starting_code)
 # Check [final code](https://github.com/kimchirice/codecademy/tree/main/bootstrap/composition_II_in_Red/final_code)
