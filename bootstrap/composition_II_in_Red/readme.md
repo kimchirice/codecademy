@@ -38,34 +38,11 @@ Stuck? Get a hint
 
 Extra
 [  ]4.If you want some additional challenges:
+  * change up the painting layout entirely.
+  * render the painting differently based on screen size (use breakpoints).
+  * add different colors using Bootstrap.
+  * add some interactivity using Bootstrap.
 
-change up the painting layout entirely.
-render the painting differently based on screen size (use breakpoints).
-add different colors using Bootstrap.
-add some interactivity using Bootstrap.
-Code Editor
-files
-index.html
-style.css
-12345678910111213141516171819
-```css
-.container {
-  width: 500px;
-  height: 505px;
-}
-
-#a {
-  border: solid black;
-  border-width: 0 7.5px 15px 0px;
-  min-height: 165px;
-…  border: solid black;
-  border-width: 12.5px 0 0 7.5px;
-  min-height: 75px;
-  background-color: rgb(242, 224, 122);
-}
-```
-Web Browser
-http://localhost:8000/
 
 
 Recreate a painting using Bootstrap's grid
