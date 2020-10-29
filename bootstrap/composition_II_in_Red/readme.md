@@ -26,19 +26,17 @@ _Mark the tasks as complete by checking them off_
 
 
 
-  [. ] 1.What about the ordering?
-  Stuck? Get a hint
+ -[] 1.What about the ordering?
+  Stuck? Get a [hint]()
 
-  [. ] 2.Thinking about the layout?
-  Stuck? Get a hint
+ -[] 2.Thinking about the layout?
+  Stuck? Get a [hint]()
 
-  [. ] 3.More complex layouts?
-
-Stuck? Get a hint
+ -[] 3.More complex layouts? Stuck? Get a [hint]()
 
 
 Extra
-[  ] 4.If you want some additional challenges:
+-[] 4.If you want some additional challenges:
   * change up the painting layout entirely.
   * render the painting differently based on screen size (use breakpoints).
   * add different colors using Bootstrap.
@@ -76,7 +74,6 @@ For example you could have:
 </div>
 ```
 In the example provided, there is a column with two nested rows. Each row contains another column. When rendered, the Piece 1 column would rest on top of the Piece 2 column. 
-4. 
 
 
 # Check [final code](https://github.com/kimchirice/codecademy/tree/main/bootstrap/composition_II_in_Red/final_code)
