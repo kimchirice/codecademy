@@ -26,18 +26,28 @@ _Mark the tasks as complete by checking them off_
 
 ## Hints along the way
 
-  [. ]1.What about the ordering?
+  [. ] 1.What about the ordering?
   Stuck? Get a hint
 
-  [. ]2.Thinking about the layout?
+  [. ] 2.Thinking about the layout?
   Stuck? Get a hint
 
-  [. ]3.More complex layouts?
+  [. ] 3.More complex layouts?
 
 Stuck? Get a hint
+  1. The initial ordering of the columns is all scrambled! But you can use the labeled diagram to help you unscramble the pieces.
+  If you’re more a visual person, you can add some text inside the element.
+
+   2. You can think of the layout in a few different ways. One way is to separate the painting into two rows.
+  In one row are the pieces A, B, and C.
+  In the second row are the pieces D, E, F, and G.
+  Focus on one row before moving on to the other row.
+  You could also organize it differently but think about the painting in rows and columns! 
+3. 
+4. 
 
 Extra
-[  ]4.If you want some additional challenges:
+[  ] 4.If you want some additional challenges:
   * change up the painting layout entirely.
   * render the painting differently based on screen size (use breakpoints).
   * add different colors using Bootstrap.
@@ -48,6 +58,6 @@ Extra
 Recreate a painting using Bootstrap's grid
 0/4 Complete
 
-
+## Hint
 # Check [starting code](https://github.com/kimchirice/codecademy/tree/main/bootstrap/composition_II_in_Red/starting_code)
 # Check [final code](https://github.com/kimchirice/codecademy/tree/main/bootstrap/composition_II_in_Red/final_code)
