@@ -24,7 +24,7 @@ If you get stuck during this project, check out the project walk-through video w
 Tasks 0/4 Complete
 _Mark the tasks as complete by checking them off_
 
- [   ] 1.What about the ordering?
+ [ x ] 1.What about the ordering?
   Stuck? Get a [hint]()
 
  -[] 2.Thinking about the layout?
