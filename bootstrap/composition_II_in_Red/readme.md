@@ -1,12 +1,10 @@
 # [Recreate a painting using Bootstrap's grid](https://www.codecademy.com/courses/learn-bootstrap/projects/bootstrap-grid-painting)
-Recreate a painting using Bootstrap's grid
-In this project you will practice using the fundamentals of Bootstrap grid by piecing together a famous painting, namely Piet Mondrian’s Composition II in Red, Blue, and Yellow:
 
-
+In this project you will practice using the fundamentals of Bootstrap grid by piecing together a famous painting, namely Piet Mondrian’s _Composition II in Red, Blue, and Yellow_:
 
 Screen shot of Piet Mondrian's Composition II in Red, Blue, and Yellow
 
-In index.html is a container with columns that represent various pieces in Composition II. You can tell which piece is what by the element’s id and the comment inside the column and with the labeled painting below:
+In *index.html* is a container with columns that represent various pieces in Composition II. You can tell which piece is what by the element’s id and the comment inside the column and with the labeled painting below:
 
 Screen shot of Piet Mondrian's Composition II in Red, Blue, and Yellow
 The column’s height and colors, and the container’s height and width, are already included in style.css. Your goal is to recreate the painting by:
@@ -23,20 +21,18 @@ There will not be step-by-step instructions provided, however, there are hints i
 
 If you get stuck during this project, check out the project walk-through video which can be found in the help menu.
 
-Tasks
-0/4 Complete
-Mark the tasks as complete by checking them off
-Hints along the way
+Tasks 0/4 Complete
+_Mark the tasks as complete by checking them off_
 
-  []1.What about the ordering?
+## Hints along the way
 
-Stuck? Get a hint
+  [. ]1.What about the ordering?
+  Stuck? Get a hint
 
-  []2.Thinking about the layout?
+  [. ]2.Thinking about the layout?
+  Stuck? Get a hint
 
-Stuck? Get a hint
-
-[]3.More complex layouts?
+  [. ]3.More complex layouts?
 
 Stuck? Get a hint
 
