@@ -1,0 +1,9 @@
+ul {
+ display: flex;
+}
+.
+.nav-link {
+  display: flex;
+  background-color: gray;
+  cursor: pointer;
+}
